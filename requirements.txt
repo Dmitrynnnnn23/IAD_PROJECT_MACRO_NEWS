@@ -1,0 +1,6 @@
+pathlib
+asyncio
+pandas
+numpy
+aiogram
+razdel
